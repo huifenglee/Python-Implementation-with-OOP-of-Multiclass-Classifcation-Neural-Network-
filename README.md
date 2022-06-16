@@ -1,6 +1,5 @@
 
 
-
 # This is an Implementation of Multiclass Classification with Neural Network from Scratch with OOP in Python
 
 ## 1. Introduction
